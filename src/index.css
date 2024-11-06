@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(74, 161, 219);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
